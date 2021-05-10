@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "The Platform"
-    url: /platform/
+    url: /platform
 
   - title: "Lab"
-    url: /lab/
+    url: /lab
 
   - title: "Team"
-    url: /team/
+    url: /team
 
   - title: "About"
-    url: /about/
+    url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
