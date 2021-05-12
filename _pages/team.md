@@ -3,6 +3,10 @@ layout: single
 title: "Team"
 permalink: /team
 
+professor:
+  - image_path: /assets/images/people/yi.jpg
+    alt: "placeholder image 1"
+    title: "Jingang Yi, ME"
 grad:
   - image_path: /assets/images/people/ali.png
     alt: "placeholder image 1"
@@ -27,6 +31,9 @@ undergrad:
   - image_path: /assets/images/people/dimitri.jpg
     title: "Dimitri Duma, ME"
 ---
+
+## Professor
+  {% include feature_row id="professor"%}
 
 ## PhD
   {% include feature_row id="grad"%}
