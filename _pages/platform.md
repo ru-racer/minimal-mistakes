@@ -9,6 +9,7 @@ permalink: /platform
 ## Chassis
   * Modifieed Traxxas XO-1
   * Custom designed wheel encoder mounts
+  <img src="assets/images/steering.gif" alt="steering_demo" width="70%"/>
 
 ## Sensor Suite
   * BNO055 Bosch IMU
