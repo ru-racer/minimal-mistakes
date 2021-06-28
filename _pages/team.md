@@ -32,11 +32,11 @@ Undergraduate students:
 ---
 
 ## Professor
-  {% include feature_row id="professor"%}
+  {% include feature_row id="Adviser"%}
 
 ## PhD
-  {% include feature_row id="grad"%}
+  {% include feature_row id="Graduate students"%}
   
 
 ## Undergrad
-  {% include feature_row id="undergrad"%}
+  {% include feature_row id="Undergraduate students"%}
