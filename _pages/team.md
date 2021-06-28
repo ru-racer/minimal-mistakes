@@ -3,33 +3,32 @@ layout: single
 title: "Team"
 permalink: /team
 
-professor:
+Adviser:
   - image_path: /assets/images/people/yi.jpg
     alt: "placeholder image 1"
-    title: "Jingang Yi, ME"
-grad:
+    title: "Professor Jingang Yi, MAE"
+Team lead:
   - image_path: /assets/images/people/ali.png
     alt: "placeholder image 1"
-    title: "Ali Arab, ME"
+    title: "Doctor Aliasghar Arab, MAE"
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
+Graduate students:
   - image_path: /assets/images/people/jiaxing.jpg
     alt: "placeholder image 1"
-    title: "Jiaxing Yu, ME"
+    title: "Jiaxing Yu"
 
   - image_path: /assets/images/default.jpg
     alt: "placeholder image 1"
-    title: "Kaiyan Yu, ME"
+    title: "Professor Kaiyan Yu"
   
 
-
-
-undergrad:
+Undergraduate students:
   - image_path: /assets/images/people/alborz.jpg
     title: "Alborz Jelvani, CS"
 
   - image_path: /assets/images/people/dimitri.jpg
-    title: "Dimitri Duma, ME"
+    title: "Dimitri Duma, MAE"
 ---
 
 ## Professor
