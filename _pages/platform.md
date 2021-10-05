@@ -1,14 +1,13 @@
 ---
 layout: single
-title: RU-Racer 1 & 2
+title: RU-Racer 1 and 2
 permalink: /platform
 
 ---
-# RU-Racer 2
-The goal to build RURacer-2 was to create improve platform performance, such as more accurate wheel encoders and more advanced embedded processors. Compared to RURacer-1, the new platform can reach four times lower latency (less than $7ms$) and twenty times faster computation power. To achieve this, an hardware architecture was designed along with the custom fitting of wheel encoders to monitor individual wheel speed and easily accessible and flexible hardware, software, and interfaces. An upgraded IMU system was also added to the new version capable of estimating the vehicle's rotations in three dimensions in addition to 3D angular velocities and linear accelerations. This platform allows researchers to take advantage of the latest software and hardware platforms, such as the Robotic Operating System (ROS) and the NVIDIA Jetson TX2 system on module (SOM).
-
 ![image](https://user-images.githubusercontent.com/26307692/115647143-4eee7300-a2f1-11eb-8875-1eae0d6352c9.png)
 
+# RU-Racer 2
+The goal to build RURacer-2 was to create improve platform performance, such as more accurate wheel encoders and more advanced embedded processors. Compared to RURacer-1, the new platform can reach four times lower latency (less than $7ms$) and twenty times faster computation power. To achieve this, an hardware architecture was designed along with the custom fitting of wheel encoders to monitor individual wheel speed and easily accessible and flexible hardware, software, and interfaces. An upgraded IMU system was also added to the new version capable of estimating the vehicle's rotations in three dimensions in addition to 3D angular velocities and linear accelerations. This platform allows researchers to take advantage of the latest software and hardware platforms, such as the Robotic Operating System (ROS) and the NVIDIA Jetson TX2 system on module (SOM).
 
 **Hardware and software architecture**
 The scaled vehicle chosen for this project is a similar 1/7th scale Traxxas XO-1. The XO-1 shown is highly capable of drifting as it features an optional rear-wheel drive system and can reach up to $100$ miles per hour (MPH). To monitor individual wheels' angular velocity, optical wheel encoders (EM1 from US Digital) were custom fit and assembled on each side of the axles.
