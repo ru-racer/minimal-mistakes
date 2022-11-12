@@ -6,7 +6,7 @@ permalink: /team
 adviser:
   - image_path: /assets/images/people/yi.jpg
     alt: "placeholder image 1"
-    title: "[Professor Jingang Yi](https://mae.rutgers.edu/jingang-yi)"
+    title: "Professor Jingang Yi"
     attr: "Department of Mechanical and Aerospace Engineering"
 
 lead:
