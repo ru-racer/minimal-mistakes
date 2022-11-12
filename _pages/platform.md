@@ -36,3 +36,20 @@ The IMU used for RURacer-2 is provided by Adafruit-BNO055, providing 9 DOF sensi
   * L4T (Linux for Tegra)
   * ROS enabled
   * Velocity feedback controller
+
+# RU-Racer 1 (First Design)
+A 1/7 scaled robotic vehicle [(Traxxas XO-1 model)](https://traxxas.com/products/landing/xo-1/) is modified with various added onboard sensors
+and actuators. The vehicle is four-wheel driven by a powerful
+brushless motor with the front and rear differentials. At each
+wheel, an electric disc brake is added to provide active
+braking capability. The steering and the brake actuators are
+operated by the servo motors that are controlled by the
+onboard embedded system. Four potentiometers are added
+to the suspensions to measure the deflection and thus the
+normal forces at each tire. Two rotating potentiometers are
+added and used to measure the steering angle. All onboard
+sensors and actuators are connected to an embedded real-time
+system (myRIO from National Instruments) with sampling
+and control frequency of 1 kHz. The values of the robotic
+vehicle parameters are listed in Table I.
+
