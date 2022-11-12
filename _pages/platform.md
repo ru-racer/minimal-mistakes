@@ -54,6 +54,6 @@ and control frequency of 1 kHz. The values of the robotic
 vehicle parameters are listed in Table I.
 
 # RU-Rover (Off-road version)
-Thescaledracingtruckwasbuiltandmodifiedfroman RCplatform(modelMaxx)fromTraxxas.Encodersand inertiameasurementunit(IMU)wereinstalledtomeasurethe front-andrear-wheelvelocitiesandroll/yawangles.AJetson TX2computerandTeensy4.0microcontrollerwereusedfor onboardcomputationpurpose.TableIliststhevaluesofthe physicalmodelparameters.
+The scaled racing truck was built and modified by Alborz, Dimitri, Feng, and Ali from an RC platform [(Traxxas Maxx)](https://traxxas.com/products/landing/maxx/). Encoders and inertia measurement unit (IMU) were installed to measure the front-and rear-wheel velocities and roll/yaw angles. A Jetson TX2 computer and Teensy4.0 microcontroller were used for onboard computation purpose.Picture below shows the physical model.
 
 
