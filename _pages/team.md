@@ -22,7 +22,7 @@ grad:
     title: "Jiaxing Yu"
     attr: "Department of Mechanical and Aerospace Engineering"
 
-  - image_path: /assets/images/default.jpg
+  - image_path: /assets/images/people/kaiyan yu.jpg
     alt: "placeholder image 1"
     title: "Professor Kaiyan Yu"
     attr: "Department of Mechanical and Aerospace Engineering"
